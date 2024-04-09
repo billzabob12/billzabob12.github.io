@@ -1,0 +1,5 @@
+# Playing Around with Fingerprint Recognition
+
+Today I spent a bit of time working on ELEC4630 A2 Q1. This required developing a GUI that allows the user to enroll fingerprints in a database and compare new fingerprints with that database. The actual fingerprint recognition code had been provided by ELEC4630 however, the GUI had not. I successfully wrote the code for the GUI and implemented functionality that allows the user to register and compare fingerprints. I am yet to come up with a way to evaulate the system on a large range of fingerprints and fine-tune the passing parameters. Furthermore, I am yet to produce a ROC curve showing error rates versus threshold and estimate a false positive rate for a false negative rate of 1%.
+
+Overall, I have thoroughly enjoyed working through the assignment thus far and I am going to work on some of the other questions which involve deep learning which I have yet to experiment much with. I am looking forward to the challenges that the rest of the assignment is going to give me!
