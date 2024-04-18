@@ -1,0 +1,5 @@
+# GPU Dev Container Working
+Today I got the GPU dev container working on my PC. I am not sure what the issue was but I tried the different branches of the course22 repository and the *GPU* branch worked for me. I then copied the .devcontainer folder into my repository so that I could use the same container for my questions. This has worked really well and I am enjoying the benefits of working inside a container.
+
+## Experimenting with AI Models
+I have also been completing question 4 of my assignment which is on training our own image recognition model. I have really enjoyed this process and seeing how different hyperparameters affect the model. I have also really enhoyed learning about the confusion matrix and how to interpret a t-SNE visualisation. I had no idea that these things even existed and this course has really opened my eyes up to how easy it is to train an AI model for simple recognition tasks.
